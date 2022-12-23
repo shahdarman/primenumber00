@@ -1,0 +1,15 @@
+C:\Users\nivee\source\repos\primenumber\primenumber\bin\Debug\net6.0\primenumber.exe
+C:\Users\nivee\source\repos\primenumber\primenumber\bin\Debug\net6.0\primenumber.deps.json
+C:\Users\nivee\source\repos\primenumber\primenumber\bin\Debug\net6.0\primenumber.runtimeconfig.json
+C:\Users\nivee\source\repos\primenumber\primenumber\bin\Debug\net6.0\primenumber.dll
+C:\Users\nivee\source\repos\primenumber\primenumber\bin\Debug\net6.0\primenumber.pdb
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.csproj.AssemblyReference.cache
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.AssemblyInfoInputs.cache
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.AssemblyInfo.cs
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.csproj.CoreCompileInputs.cache
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.dll
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\refint\primenumber.dll
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.pdb
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\primenumber.genruntimeconfig.cache
+C:\Users\nivee\source\repos\primenumber\primenumber\obj\Debug\net6.0\ref\primenumber.dll
